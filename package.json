@@ -1,0 +1,19 @@
+{
+  "name": "tob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "telegraf": "^3.21.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "10.2.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
